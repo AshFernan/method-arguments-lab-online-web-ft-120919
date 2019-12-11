@@ -1,6 +1,5 @@
-def introduction (Josh)
-  name = Josh
+def introduction (name)
   puts "Hi, my name is #{name}."
-  return Josh
+  
 end
-introduction
+
